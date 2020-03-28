@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import com.jfoenix.controls.JFXButton?>
+<?import com.jfoenix.controls.JFXTextField?>
+<?import javafx.geometry.Insets?>
+<?import javafx.scene.control.Label?>
+<?import javafx.scene.layout.AnchorPane?>
+<?import javafx.scene.text.Font?>
+
+<AnchorPane prefHeight="500.0" prefWidth="450.0" xmlns="http://javafx.com/javafx/10.0.1" xmlns:fx="http://javafx.com/fxml/1" fx:controller="client.view.studentview.studentmainview.StudentMainView">
+   <children>
+      <AnchorPane prefHeight="100.0" prefWidth="450.0">
+         <children>
+            <Label layoutX="40.0" layoutY="60.0" prefHeight="20.0" text="Account Number: ">
+               <font>
+                  <Font size="17.0" />
+               </font>
+            </Label>
+            <Label layoutX="150.0" layoutY="20.0" prefHeight="20.0" prefWidth="75.0" text="Welcome">
+               <font>
+                  <Font size="17.0" />
+               </font>
+            </Label>
+            <Label fx:id="userName" layoutX="225.0" layoutY="20.0" prefHeight="26.0" prefWidth="185.0">
+               <font>
+                  <Font size="17.0" />
+               </font>
+            </Label>
+            <Label fx:id="accountNumber" layoutX="182.0" layoutY="60.0" maxWidth="150.0" prefHeight="20.0" prefWidth="150.0">
+               <font>
+                  <Font size="17.0" />
+               </font>
+            </Label>
+         </children>
+      </AnchorPane>
+      <AnchorPane layoutY="125.0" prefHeight="100.0" prefWidth="450.0">
+         <children>
+            <JFXTextField fx:id="sessionAccessCode" layoutX="200.0" layoutY="38.0" minHeight="25.0" prefColumnCount="0" prefWidth="200.0" promptText="Enter Session Access Code" />
+            <JFXButton layoutX="25.0" layoutY="25.0" onAction="#onJoinSessionButton" prefHeight="50.0" prefWidth="150.0" style="-fx-background-color: #566270;" text="Join Session" textFill="WHITE">
+               <font>
+                  <Font size="17.0" />
+               </font>
+            </JFXButton>
+         </children>
+      </AnchorPane>
+      <AnchorPane layoutY="225.0" prefHeight="100.0" prefWidth="450.0">
+         <children>
+            <JFXTextField fx:id="quizzAccessCode" layoutX="200.0" layoutY="38.0" prefHeight="25.0" prefWidth="200.0" promptText="Enter Quizz Access Code" />
+            <JFXButton layoutX="25.0" layoutY="25.0" onAction="#onJoinQuizzButton" prefHeight="50.0" prefWidth="150.0" style="-fx-background-color: #566270;" text="Join Quizz" textFill="WHITE">
+               <font>
+                  <Font size="17.0" />
+               </font>
+            </JFXButton>
+         </children>
+      </AnchorPane>
+      <AnchorPane layoutX="1.0" layoutY="359.0" prefHeight="50.0" prefWidth="450.0">
+         <children>
+            <JFXButton layoutX="250.0" layoutY="25.0" onAction="#onHistoryButton" prefHeight="50.0" prefWidth="150.0" style="-fx-background-color: #566270;" text="Hisotry" textFill="WHITE">
+               <font>
+                  <Font size="17.0" />
+               </font>
+            </JFXButton>
+            <JFXButton layoutX="50.0" layoutY="25.0" onAction="#onLogOutButton" prefHeight="50.0" prefWidth="150.0" style="-fx-background-color: #566270;" text="Log Out" textFill="WHITE">
+               <font>
+                  <Font size="17.0" />
+               </font>
+            </JFXButton>
+         </children>
+      </AnchorPane>
+      <Label layoutX="114.0" layoutY="477.0" text="Sprogcenter Midt 2019 Nucleus Software">
+         <font>
+            <Font size="13.0" />
+         </font>
+      </Label>
+      <Label fx:id="errorLabel" alignment="CENTER" contentDisplay="CENTER" layoutX="14.0" layoutY="318.0" prefHeight="50.0" prefWidth="423.0" style="-fx-border-color: red;" text="Something whent wrong. Could not connect to the session, check the access code and try again. " textAlignment="CENTER" wrapText="true">
+         <padding>
+            <Insets bottom="3.0" left="3.0" right="3.0" top="3.0" />
+         </padding>
+      </Label>
+   </children>
+</AnchorPane>

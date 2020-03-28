@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import com.jfoenix.controls.JFXButton?>
+<?import javafx.scene.control.Label?>
+<?import javafx.scene.layout.AnchorPane?>
+<?import javafx.scene.text.Font?>
+
+<AnchorPane minHeight="-Infinity" minWidth="-Infinity" prefHeight="500.0" prefWidth="450.0" xmlns="http://javafx.com/javafx/10.0.1" xmlns:fx="http://javafx.com/fxml/1" fx:controller="client.view.teacherview.teachermainview.TeacherMainView">
+   <children>
+      <AnchorPane prefHeight="100.0" prefWidth="450.0">
+         <children>
+            <Label layoutX="40.0" layoutY="60.0" prefHeight="20.0" text="Account Number: ">
+               <font>
+                  <Font size="17.0" />
+               </font>
+            </Label>
+            <Label layoutX="150.0" layoutY="20.0" prefHeight="20.0" prefWidth="75.0" text="Welcome">
+               <font>
+                  <Font size="17.0" />
+               </font>
+            </Label>
+            <Label fx:id="userName" layoutX="225.0" layoutY="20.0" prefHeight="26.0" prefWidth="185.0">
+               <font>
+                  <Font size="17.0" />
+               </font>
+            </Label>
+            <Label fx:id="accountNumber" layoutX="182.0" layoutY="60.0" maxWidth="150.0" prefHeight="20.0" prefWidth="150.0">
+               <font>
+                  <Font size="17.0" />
+               </font>
+            </Label>
+         </children>
+      </AnchorPane>
+      <AnchorPane layoutY="100.0" prefHeight="400.0" prefWidth="450.0">
+         <children>
+            <JFXButton layoutX="250.0" layoutY="42.0" onAction="#onSessionButton" prefHeight="50.0" prefWidth="150.0" style="-fx-background-color: #566270;" text="Session" textFill="WHITE">
+               <font>
+                  <Font size="17.0" />
+               </font>
+            </JFXButton>
+            <JFXButton layoutX="250.0" layoutY="154.0" onAction="#onHistoryButton" prefHeight="50.0" prefWidth="150.0" style="-fx-background-color: #566270;" text="History" textFill="WHITE">
+               <font>
+                  <Font size="17.0" />
+               </font>
+            </JFXButton>
+            <JFXButton layoutX="50.0" layoutY="42.0" onAction="#onClassroomButton" prefHeight="50.0" prefWidth="150.0" style="-fx-background-color: #566270;" text="Classroom" textFill="WHITE">
+               <font>
+                  <Font size="17.0" />
+               </font>
+            </JFXButton>
+            <JFXButton layoutX="50.0" layoutY="154.0" onAction="#onTopicButton" prefHeight="50.0" prefWidth="150.0" style="-fx-background-color: #566270;" text="Topic" textFill="WHITE">
+               <font>
+                  <Font size="17.0" />
+               </font>
+            </JFXButton>
+            <JFXButton layoutX="50.0" layoutY="266.0" onAction="#onLogOutButton" prefHeight="50.0" prefWidth="150.0" style="-fx-background-color: #566270;" text="Log Out" textFill="WHITE">
+               <font>
+                  <Font size="17.0" />
+               </font>
+            </JFXButton>
+            <JFXButton layoutX="250.0" layoutY="266.0" onAction="#onUserSetttingsButton" prefHeight="50.0" prefWidth="150.0" style="-fx-background-color: #566270;" text="User Settings" textFill="WHITE">
+               <font>
+                  <Font size="17.0" />
+               </font>
+            </JFXButton>
+            <Label layoutX="107.0" layoutY="377.0" text="Sprogcenter Midt 2019 Nucleus Software">
+               <font>
+                  <Font size="13.0" />
+               </font>
+            </Label>
+         </children>
+      </AnchorPane>
+   </children>
+</AnchorPane>

@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import com.jfoenix.controls.JFXButton?>
+<?import com.jfoenix.controls.JFXComboBox?>
+<?import com.jfoenix.controls.JFXTextField?>
+<?import javafx.scene.control.Label?>
+<?import javafx.scene.control.ScrollPane?>
+<?import javafx.scene.control.TextField?>
+<?import javafx.scene.layout.AnchorPane?>
+<?import javafx.scene.layout.ColumnConstraints?>
+<?import javafx.scene.layout.GridPane?>
+<?import javafx.scene.layout.RowConstraints?>
+<?import javafx.scene.text.Font?>
+
+<AnchorPane prefHeight="768.0" prefWidth="1024.0" xmlns="http://javafx.com/javafx/10.0.1" xmlns:fx="http://javafx.com/fxml/1" fx:controller="client.view.teacherview.topicview.TopicView">
+   <children>
+      <AnchorPane layoutX="141.0" layoutY="94.0">
+         <children>
+            <JFXComboBox fx:id="topicComboBox" prefHeight="50.0" prefWidth="300.0" promptText="Select topic" translateZ="-1.0" visibleRowCount="3" />
+            <TextField fx:id="newTopicField" layoutX="442.0" prefHeight="50.0" prefWidth="300.0" promptText="Enter new topic" />
+         </children>
+      </AnchorPane>
+      <AnchorPane layoutY="710.0" prefHeight="80.0" prefWidth="1024.0">
+         <children>
+            <Label alignment="CENTER" layoutX="15.0" layoutY="15.0" prefHeight="50.0" prefWidth="996.0" text="Sprogcenter Midt: Language Learning Platform">
+               <font>
+                  <Font size="17.0" />
+               </font>
+            </Label>
+         </children>
+      </AnchorPane>
+      <AnchorPane layoutY="170.0">
+         <children>
+            <Label fx:id="noTopicSelected" alignment="CENTER" layoutX="48.0" prefHeight="50.0" prefWidth="947.0" style="-fx-border-color: red;" text="No topic selected. To modify a topic you need to select the desired topic. Please make sure that the topic was select." wrapText="true" />
+            <Label fx:id="noTopicName" alignment="CENTER" layoutX="49.0" prefHeight="50.0" prefWidth="947.0" style="-fx-border-color: red;" text="No valid name for the topic entered. To create/edit a topic you must inidicate a unnique name, please make sure to indicate a valid name. " wrapText="true" />
+            <Label fx:id="noWordSelected" alignment="CENTER" layoutX="49.0" prefHeight="50.0" prefWidth="947.0" style="-fx-border-color: red;" text="No word selected or topic selected. To modify a word you need to select the desired word. Please make sure that the word was select." wrapText="true" />
+            <Label fx:id="noWordName" alignment="CENTER" layoutX="49.0" prefHeight="50.0" prefWidth="947.0" style="-fx-border-color: red;" text="No name for the word entered or topic selected. To create a new word you must inidicate a name, please make sure to indicate a name. " wrapText="true" />
+         </children>
+      </AnchorPane>
+      <AnchorPane layoutX="85.0" layoutY="260.0">
+         <children>
+            <JFXButton layoutX="235.0" onAction="#onCreateTopicButton" prefHeight="50.0" prefWidth="150.0" style="-fx-background-color: #566270;" text="Create Topic" textFill="WHITE">
+               <font>
+                  <Font size="17.0" />
+               </font>
+            </JFXButton>
+            <JFXButton onAction="#onEditTopicButton" prefHeight="50.0" prefWidth="150.0" style="-fx-background-color: #566270;" text="Edit Topic" textFill="WHITE">
+               <font>
+                  <Font size="17.0" />
+               </font>
+            </JFXButton>
+            <JFXButton layoutY="93.0" onAction="#onDeleteTopicButton" prefHeight="50.0" prefWidth="150.0" style="-fx-background-color: #566270;" text="Delete Topic" textFill="WHITE">
+               <font>
+                  <Font size="17.0" />
+               </font>
+            </JFXButton>
+            <JFXButton layoutX="235.0" layoutY="93.0" onAction="#onMainMenuButton" prefHeight="50.0" prefWidth="150.0" style="-fx-background-color: #566270;" text="Main Menu" textFill="WHITE">
+               <font>
+                  <Font size="17.0" />
+               </font>
+            </JFXButton>
+         </children>
+      </AnchorPane>
+      <AnchorPane layoutX="562.0" layoutY="260.0" prefHeight="143.0" prefWidth="385.0">
+         <children>
+            <JFXButton onAction="#onAddWordButton" prefHeight="50.0" prefWidth="150.0" style="-fx-background-color: #566270;" text="Add Word" textFill="WHITE">
+               <font>
+                  <Font size="17.0" />
+               </font>
+            </JFXButton>
+            <JFXTextField fx:id="newWordField" layoutX="235.0" layoutY="91.0" prefHeight="50.0" prefWidth="150.0" promptText="New/Edit Word" />
+            <JFXButton layoutY="93.0" onAction="#onDeleteWordButton" prefHeight="50.0" prefWidth="150.0" style="-fx-background-color: #566270;" text="Delete" textFill="WHITE">
+               <font>
+                  <Font size="17.0" />
+               </font>
+            </JFXButton>
+            <JFXButton layoutX="235.0" onAction="#onEditWordButton" prefHeight="50.0" prefWidth="150.0" style="-fx-background-color: #566270;" text="Edit Word" textFill="WHITE">
+               <font>
+                  <Font size="17.0" />
+               </font>
+            </JFXButton>
+         </children>
+      </AnchorPane>
+      <ScrollPane hbarPolicy="NEVER" layoutX="85.0" layoutY="441.0" prefHeight="280.0" prefWidth="900.0">
+        <content>
+          <AnchorPane fx:id="anchorPane" minHeight="0.0" minWidth="0.0" prefHeight="280.0" prefWidth="900.0">
+               <children>
+                  <AnchorPane layoutX="19.0" layoutY="14.0">
+                     <children>
+                        <GridPane fx:id="gridPane" layoutY="7.0" prefHeight="50.0" prefWidth="849.0">
+                          <columnConstraints>
+                              <ColumnConstraints hgrow="SOMETIMES" minWidth="10.0" prefWidth="100.0" />
+                            <ColumnConstraints hgrow="SOMETIMES" minWidth="10.0" prefWidth="100.0" />
+                            <ColumnConstraints hgrow="SOMETIMES" minWidth="10.0" prefWidth="100.0" />
+                          </columnConstraints>
+                          <rowConstraints>
+                              <RowConstraints minHeight="10.0" prefHeight="30.0" vgrow="SOMETIMES" />
+                          </rowConstraints>
+                        </GridPane>
+                     </children>
+                  </AnchorPane>
+               </children>
+            </AnchorPane>
+        </content>
+      </ScrollPane>
+   </children>
+</AnchorPane>

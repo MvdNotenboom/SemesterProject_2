@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import com.jfoenix.controls.JFXButton?>
+<?import com.jfoenix.controls.JFXPasswordField?>
+<?import com.jfoenix.controls.JFXTextField?>
+<?import com.jfoenix.controls.JFXToggleButton?>
+<?import javafx.scene.control.Label?>
+<?import javafx.scene.layout.AnchorPane?>
+<?import javafx.scene.text.Font?>
+
+<AnchorPane prefHeight="500.0" prefWidth="450.0" xmlns="http://javafx.com/javafx/10.0.1" xmlns:fx="http://javafx.com/fxml/1" fx:controller="client.view.registerview.RegisterView">
+   <children>
+      <AnchorPane fx:id="registerPane" layoutY="20.0" prefHeight="500.0" prefWidth="450.0" AnchorPane.bottomAnchor="0.0" AnchorPane.leftAnchor="0.0" AnchorPane.rightAnchor="0.0" AnchorPane.topAnchor="0.0">
+         <children>
+            <Label alignment="CENTER" layoutY="20.0" prefHeight="50.0" prefWidth="450.0" text="Register New User">
+               <font>
+                  <Font size="27.0" />
+               </font>
+            </Label>
+            <AnchorPane layoutY="410.0" prefHeight="50.0" prefWidth="450.0">
+               <children>
+                  <JFXButton layoutX="50.0" layoutY="2.0" onAction="#onRegisterButton" prefHeight="50.0" prefWidth="150.0" style="-fx-background-color: #566270;" text="Register" textFill="WHITE">
+                     <font>
+                        <Font size="17.0" />
+                     </font>
+                  </JFXButton>
+                  <JFXButton layoutX="250.0" layoutY="2.0" onAction="#onCancelButton" prefHeight="50.0" prefWidth="150.0" style="-fx-background-color: #566270;" text="Cancel" textFill="WHITE">
+                     <font>
+                        <Font size="17.0" />
+                     </font>
+                  </JFXButton>
+               </children>
+            </AnchorPane>
+            <AnchorPane layoutY="75.0" prefHeight="50.0" prefWidth="450.0">
+               <children>
+                  <JFXTextField fx:id="firstNameInput" layoutX="163.0" layoutY="3.0" prefHeight="30.0" prefWidth="250.0" />
+                  <Label alignment="BOTTOM_RIGHT" layoutY="5.0" prefHeight="30.0" prefWidth="150.0" text="First Name">
+                     <font>
+                        <Font name="Roboto" size="17.0" />
+                     </font>
+                  </Label>
+               </children>
+            </AnchorPane>
+            <Label fx:id="userNotRegistered" layoutX="59.0" layoutY="325.0" prefHeight="40.0" prefWidth="364.0" style="-fx-border-color: red;" text="User not registered, please check the information and try again. " />
+         </children>
+      </AnchorPane>
+      <AnchorPane layoutY="125.0" prefHeight="50.0" prefWidth="450.0">
+         <children>
+            <JFXTextField fx:id="lastNameInput" layoutX="163.0" layoutY="3.0" prefHeight="30.0" prefWidth="250.0" />
+            <Label alignment="BOTTOM_RIGHT" layoutY="5.0" prefHeight="30.0" prefWidth="150.0" text="Last Name">
+               <font>
+                  <Font name="Roboto" size="17.0" />
+               </font>
+            </Label>
+         </children>
+      </AnchorPane>
+      <AnchorPane layoutY="175.0" prefHeight="50.0" prefWidth="450.0">
+         <children>
+            <JFXTextField fx:id="emailInput" layoutX="163.0" layoutY="3.0" prefHeight="30.0" prefWidth="250.0" />
+            <Label alignment="BOTTOM_RIGHT" layoutY="5.0" prefHeight="30.0" prefWidth="150.0" text="E-mail">
+               <font>
+                  <Font name="Roboto" size="17.0" />
+               </font>
+            </Label>
+         </children>
+      </AnchorPane>
+      <AnchorPane layoutY="225.0" prefHeight="50.0" prefWidth="450.0">
+         <children>
+            <JFXTextField fx:id="accountNumberInput" layoutX="163.0" layoutY="3.0" prefHeight="30.0" prefWidth="250.0" promptText="at least 4 characters" />
+            <Label alignment="BOTTOM_RIGHT" layoutY="5.0" prefHeight="30.0" prefWidth="150.0" text="Account number">
+               <font>
+                  <Font name="Roboto" size="17.0" />
+               </font>
+            </Label>
+         </children>
+      </AnchorPane>
+      <AnchorPane layoutY="275.0" prefHeight="50.0" prefWidth="450.0">
+         <children>
+            <JFXPasswordField fx:id="passwordInput" layoutX="163.0" layoutY="9.0" prefHeight="30.0" prefWidth="250.0" promptText="at least 6 characters" />
+            <Label alignment="BOTTOM_RIGHT" layoutY="15.0" prefHeight="30.0" prefWidth="150.0" text="Password">
+               <font>
+                  <Font name="Roboto" size="17.0" />
+               </font>
+            </Label>
+         </children>
+      </AnchorPane>
+      <AnchorPane layoutY="350.0" prefHeight="62.0" prefWidth="450.0">
+         <children>
+            <JFXToggleButton fx:id="isTeacher" layoutX="186.0" prefHeight="50.0" prefWidth="150.0" text="Teacher" toggleColor="#fafafa" toggleLineColor="#566270" unToggleLineColor="#566270">
+               <font>
+                  <Font size="17.0" />
+               </font>
+            </JFXToggleButton>
+            <Label alignment="CENTER_RIGHT" layoutX="97.0" layoutY="18.0" prefHeight="26.0" prefWidth="103.0" text="Student">
+               <font>
+                  <Font size="17.0" />
+               </font>
+            </Label>
+         </children>
+      </AnchorPane>
+   </children>
+</AnchorPane>

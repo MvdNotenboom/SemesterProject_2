@@ -1,0 +1,1844 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="2a3795b0-18b3-424b-8517-b74243490c07" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/../Process Report/Process Report.docx" beforeDir="false" afterPath="$PROJECT_DIR$/../Process Report/Process Report.docx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SEP Source/Project Report/Domain Model/Domain Model Description.docx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SEP Source/Project Report/Domain Model/Domain Model Diagram.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SEP Source/Project Report/Requirements/Requirments.docx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SEP Source/Project Report/System Sequence Diagram/System Sequence Diagram.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SEP Source/Project Report/Use Case/Use Case Descriptions/History/History - Student.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SEP Source/Project Report/Use Case/Use Case Descriptions/History/History - Teacher.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SEP Source/Project Report/Use Case/Use Case Descriptions/Quiz Creator/Quiz Management - Quiz Creation.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SEP Source/Project Report/Use Case/Use Case Descriptions/Quiz Participation/Quiz Participation  - Answering a quiz.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SEP Source/Project Report/Use Case/Use Case Descriptions/Quiz Participation/Quiz Participation - Entering a quiz.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SEP Source/Project Report/Use Case/Use Case Descriptions/Resource Management/Resource Management - Classroom Management.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SEP Source/Project Report/Use Case/Use Case Descriptions/Resource Management/Resource Management - Topic Management.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SEP Source/Project Report/Use Case/Use Case Descriptions/Session Creator/Session Management - Session Creation.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SEP Source/Project Report/Use Case/Use Case Descriptions/Session Creator/Session Manamgent  - Accepting or Rejecting a Quesiton.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SEP Source/Project Report/Use Case/Use Case Descriptions/Session Participation/Session Participation - Entering a sessin.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SEP Source/Project Report/Use Case/Use Case Descriptions/Session Participation/Session Participation - Receiving a Feedback.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SEP Source/Project Report/Use Case/Use Case Descriptions/Session Participation/Session Participation - submitting a question.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SEP Source/Project Report/Use Case/Use Case Diagram.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SEP Source/Project Report/src/Language Learning Platform.asta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SEP Source/Project Report/src/Requirments.docx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SEP Source/Project Report/src/Scenarios.docx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SEP Source/Project Report/src/Test Cases.docx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SEP Source/Project Report/src/Test Results.docx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SEP Source/Project Report/src/Usability Testing Results.docx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SEP Source/Project Report/src/Use Case Descriptions.docx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SEP Source/Project Report/src/Use Case Descriptions.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SEP Source/Project Report/src/User Stories the most updated.docx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SEP Source/Project Report/src/User Stories.docx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java/client/view/MainView.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/java/client/view/MainView.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/client/view/MainView.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/client/view/MainView.java" afterDir="false" />
+    </list>
+    <ignored path="$PROJECT_DIR$/out/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="PostgreSQL - postgres@93.167.134.240" type="feb32156:DbDataSourceImpl" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="DefaultGradleProjectSettings">
+    <option name="isMigrated" value="true" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/server/ServerStarter.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="102">
+              <caret line="15" column="13" selection-start-line="15" selection-start-column="13" selection-end-line="15" selection-end-column="13" />
+              <folding>
+                <element signature="docComment;class#ServerStarter#0" />
+                <element signature="method#main#0;class#ServerStarter#0" />
+                <element signature="e#379#611#0" />
+                <element signature="e#678#722#0" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/server/dataprovider/DatabaseConnection.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="918">
+              <caret line="156" column="4" selection-start-line="156" selection-start-column="4" selection-end-line="156" selection-end-column="4" />
+              <folding>
+                <element signature="docComment;class#DatabaseConnection#0" />
+                <element signature="docComment;method#DatabaseConnection#0;class#DatabaseConnection#0" />
+                <element signature="e#966#1012#0" />
+                <element signature="e#1062#1106#0" />
+                <element signature="e#1128#1208#0" />
+                <element signature="e#1248#1383#0" />
+                <element signature="docComment;method#getInstance#0;class#DatabaseConnection#0" />
+                <element signature="method#getInstance#0;class#DatabaseConnection#0" />
+                <element signature="e#1567#1627#1" />
+                <element signature="docComment;method#getCredentials#0;class#DatabaseConnection#0" />
+                <element signature="method#getCredentials#0;class#DatabaseConnection#0" />
+                <element signature="e#2054#2786#0" />
+                <element signature="e#2402#2712#1" />
+                <element signature="e#2826#2870#0" />
+                <element signature="docComment;method#registerUser#0;class#DatabaseConnection#0" />
+                <element signature="method#registerUser#0;class#DatabaseConnection#0" />
+                <element signature="e#3741#3935#0" />
+                <element signature="e#3870#3925#1" />
+                <element signature="docComment;method#makeSessionServerRegistration#0;class#DatabaseConnection#0" />
+                <element signature="method#makeSessionServerRegistration#0;class#DatabaseConnection#0" />
+                <element signature="docComment;method#getSessionServer#0;class#DatabaseConnection#0" />
+                <element signature="method#getSessionServer#0;class#DatabaseConnection#0" />
+                <element signature="e#5537#6509#0" />
+                <element signature="e#5893#6148#1" />
+                <element signature="e#6339#6407#1" />
+                <element signature="e#6549#6719#0" />
+                <element signature="e#6657#6709#1" />
+                <element signature="docComment;method#submitQuestion#0;class#DatabaseConnection#0" />
+                <element signature="method#submitQuestion#0;class#DatabaseConnection#0" />
+                <element signature="e#6928#7613#0" />
+                <element signature="e#7653#7823#0" />
+                <element signature="e#7761#7813#1" />
+                <element signature="docComment;method#retrieveQuestion#0;class#DatabaseConnection#0" />
+                <element signature="method#retrieveQuestion#0;class#DatabaseConnection#0" />
+                <element signature="e#8083#8816#0" />
+                <element signature="e#8367#8731#1" />
+                <element signature="e#8856#9026#0" />
+                <element signature="e#8964#9016#1" />
+                <element signature="docComment;method#createTopic#0;class#DatabaseConnection#0" />
+                <element signature="method#createTopic#0;class#DatabaseConnection#0" />
+                <element signature="e#9453#9683#0" />
+                <element signature="e#9723#9914#0" />
+                <element signature="e#9785#9829#1" />
+                <element signature="e#9859#9904#1" />
+                <element signature="docComment;method#fetchTopics#0;class#DatabaseConnection#0" />
+                <element signature="method#fetchTopics#0;class#DatabaseConnection#0" />
+                <element signature="e#10172#10596#0" />
+                <element signature="e#10442#10517#1" />
+                <element signature="e#10636#10806#0" />
+                <element signature="e#10744#10796#1" />
+                <element signature="docComment;method#updateTopic#0;class#DatabaseConnection#0" />
+                <element signature="method#updateTopic#0;class#DatabaseConnection#0" />
+                <element signature="e#11185#11424#0" />
+                <element signature="e#11464#11692#0" />
+                <element signature="e#11526#11570#1" />
+                <element signature="e#11600#11682#1" />
+                <element signature="docComment;method#deleteTopic#0;class#DatabaseConnection#0" />
+                <element signature="method#deleteTopic#0;class#DatabaseConnection#0" />
+                <element signature="e#11969#12208#0" />
+                <element signature="e#12248#12418#0" />
+                <element signature="e#12356#12408#1" />
+                <element signature="docComment;method#fetchWords#0;class#DatabaseConnection#0" />
+                <element signature="method#fetchWords#0;class#DatabaseConnection#0" />
+                <element signature="e#12846#13298#0" />
+                <element signature="e#13145#13219#1" />
+                <element signature="e#13338#13508#0" />
+                <element signature="e#13446#13498#1" />
+                <element signature="docComment;method#addWord#0;class#DatabaseConnection#0" />
+                <element signature="method#addWord#0;class#DatabaseConnection#0" />
+                <element signature="e#13815#14042#0" />
+                <element signature="e#14082#14252#0" />
+                <element signature="e#14190#14242#1" />
+                <element signature="docComment;method#editWord#0;class#DatabaseConnection#0" />
+                <element signature="method#editWord#0;class#DatabaseConnection#0" />
+                <element signature="e#14579#14814#0" />
+                <element signature="e#14854#15024#0" />
+                <element signature="e#14962#15014#1" />
+                <element signature="docComment;method#deleteWord#0;class#DatabaseConnection#0" />
+                <element signature="method#deleteWord#0;class#DatabaseConnection#0" />
+                <element signature="e#15295#15531#0" />
+                <element signature="e#15571#15741#0" />
+                <element signature="e#15679#15731#1" />
+                <element signature="docComment;method#createClassroom#0;class#DatabaseConnection#0" />
+                <element signature="method#createClassroom#0;class#DatabaseConnection#0" />
+                <element signature="e#16268#16519#0" />
+                <element signature="e#16559#16729#0" />
+                <element signature="e#16667#16719#1" />
+                <element signature="docComment;method#fetchClassrooms#0;class#DatabaseConnection#0" />
+                <element signature="method#fetchClassrooms#0;class#DatabaseConnection#0" />
+                <element signature="e#17048#17477#0" />
+                <element signature="e#17265#17393#1" />
+                <element signature="e#17517#17687#0" />
+                <element signature="e#17625#17677#1" />
+                <element signature="docComment;method#deleteClassroom#0;class#DatabaseConnection#0" />
+                <element signature="method#deleteClassroom#0;class#DatabaseConnection#0" />
+                <element signature="e#17996#18247#0" />
+                <element signature="e#18287#18457#0" />
+                <element signature="e#18395#18447#1" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/client/launcher/RunAlt.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="153">
+              <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/client/launcher/Run.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="170">
+              <caret line="16" column="13" selection-start-line="16" selection-start-column="13" selection-end-line="16" selection-end-column="13" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Arquillian JUnit Test Class" />
+        <option value="JUnit4 Test Class" />
+        <option value="FxmlFile" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>bu</find>
+      <find>updateme</find>
+      <find>question</find>
+      <find>generateCode</find>
+      <find>newQuestion</find>
+      <find>fix</find>
+      <find>topicObject</find>
+      <find>disableWords</find>
+      <find>system</find>
+      <find>sys</find>
+      <find>ConnectedStudent</find>
+      <find>connectedStudent</find>
+      <find>studentList</find>
+      <find>classroomCo</find>
+    </findStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/client/view/studentview/studentsessionview/StudentSessionView.fxml" />
+        <option value="$PROJECT_DIR$/src/shared/session/test.java" />
+        <option value="$PROJECT_DIR$/src/shared/session/combo_box1.java" />
+        <option value="$PROJECT_DIR$/src/shared/session/combo_box_1.java" />
+        <option value="$PROJECT_DIR$/src/shared/resources/Word.java" />
+        <option value="$PROJECT_DIR$/src/client/model/PropertyChangeSubject.java" />
+        <option value="$PROJECT_DIR$/src/client/model/IModelMain.java" />
+        <option value="$PROJECT_DIR$/src/client/model/ModelMain.java" />
+        <option value="$PROJECT_DIR$/src/client/model/IModelSessionServer.java" />
+        <option value="$PROJECT_DIR$/src/client/model/ModelSessionServer.java" />
+        <option value="$PROJECT_DIR$/src/client/model/ModelTest.java" />
+        <option value="$PROJECT_DIR$/src/client/model/IPropertyChangeSubject.java" />
+        <option value="$PROJECT_DIR$/src/shared/resources/Question.java" />
+        <option value="$PROJECT_DIR$/src/shared/session/SessionServer.java" />
+        <option value="$PROJECT_DIR$/src/client/view/loginview/LoginViewTest.java" />
+        <option value="$PROJECT_DIR$/src/client/viewmodel/loginviewmodel/LoginViewModelTest.java" />
+        <option value="$PROJECT_DIR$/src/client/view/teacherview/classroomview/ClassroomView.fxml" />
+        <option value="$PROJECT_DIR$/src/shared/callback/CallBack.java" />
+        <option value="$PROJECT_DIR$/src/shared/callback/ICallBack.java" />
+        <option value="$PROJECT_DIR$/src/shared/resources/ServerInfo.java" />
+        <option value="$PROJECT_DIR$/src/server/session/SessionServer.java" />
+        <option value="$PROJECT_DIR$/src/shared/IServer.java" />
+        <option value="$PROJECT_DIR$/src/server/dataprovider/IDataManager.java" />
+        <option value="$PROJECT_DIR$/src/client/viewmodel/MainViewModel.java" />
+        <option value="$PROJECT_DIR$/src/client/viewmodel/teacherviewmodel/insessionviewmodel/TeacherInSessionViewModel.java" />
+        <option value="$PROJECT_DIR$/src/client/viewmodel/loginviewmodel/LoginViewModel.java" />
+        <option value="$PROJECT_DIR$/src/client/viewmodel/registerviewmodel/RegisterViewModel.java" />
+        <option value="$PROJECT_DIR$/src/client/viewmodel/studentviewmodel/sessionviewmodel/StudentSessionViewModel.java" />
+        <option value="$PROJECT_DIR$/src/client/viewmodel/teacherviewmodel/classroomviewmodel/ClassroomViewModel.java" />
+        <option value="$PROJECT_DIR$/src/client/viewmodel/teacherviewmodel/sessionviewmodel/TeacherSessionViewModel.java" />
+        <option value="$PROJECT_DIR$/src/client/viewmodel/teacherviewmodel/teachermainviewmodel/TeacherMainViewModel.java" />
+        <option value="$PROJECT_DIR$/src/client/viewmodel/teacherviewmodel/topicviewmodel/TopicViewModel.java" />
+        <option value="$PROJECT_DIR$/src/client/launcher/Run.java" />
+        <option value="$PROJECT_DIR$/src/client/view/loginview/LoginView.java" />
+        <option value="$PROJECT_DIR$/src/client/view/registerview/RegisterView.java" />
+        <option value="$PROJECT_DIR$/src/client/view/studentview/studentmainview/StudentMainView.java" />
+        <option value="$PROJECT_DIR$/src/client/view/teacherview/classroomview/ClassroomView.java" />
+        <option value="$PROJECT_DIR$/src/client/view/teacherview/teacherinsessionview/TeacherInSessionView.java" />
+        <option value="$PROJECT_DIR$/src/client/view/teacherview/teachermainview/TeacherMainView.java" />
+        <option value="$PROJECT_DIR$/src/client/view/teacherview/teachersessionview/TeacherSessionView.java" />
+        <option value="$PROJECT_DIR$/src/client/view/teacherview/topicview/TopicView.java" />
+        <option value="$PROJECT_DIR$/src/server/ServerStarter.java" />
+        <option value="$PROJECT_DIR$/src/shared/session/ISessionServer.java" />
+        <option value="$PROJECT_DIR$/src/client/viewmodel/studentviewmodel/studentmainviewmodel/StudentMainViewModel.java" />
+        <option value="$PROJECT_DIR$/src/client/model/IModel.java" />
+        <option value="$PROJECT_DIR$/src/client/view/studentview/studentsessionview/StudentSessionView.java" />
+        <option value="$PROJECT_DIR$/src/client/model/Model.java" />
+        <option value="$PROJECT_DIR$/src/server/Server.java" />
+        <option value="$PROJECT_DIR$/src/server/dataprovider/DatabaseConnection.java" />
+        <option value="$PROJECT_DIR$/src/shared/resources/Classroom.java" />
+        <option value="$PROJECT_DIR$/src/client/view/MainView.java" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="-7" />
+    <option name="width" value="974" />
+    <option name="height" value="1057" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="java_sep" type="b2602c69:ProjectViewProjectNode" />
+              <item name="java_sep" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="java_sep" type="b2602c69:ProjectViewProjectNode" />
+              <item name="java_sep" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="java_sep" type="b2602c69:ProjectViewProjectNode" />
+              <item name="java_sep" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="client" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="java_sep" type="b2602c69:ProjectViewProjectNode" />
+              <item name="java_sep" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="client" type="462c0819:PsiDirectoryNode" />
+              <item name="launcher" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="java_sep" type="b2602c69:ProjectViewProjectNode" />
+              <item name="java_sep" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="client" type="462c0819:PsiDirectoryNode" />
+              <item name="model" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="java_sep" type="b2602c69:ProjectViewProjectNode" />
+              <item name="java_sep" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="client" type="462c0819:PsiDirectoryNode" />
+              <item name="view" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="java_sep" type="b2602c69:ProjectViewProjectNode" />
+              <item name="java_sep" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="server" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="java_sep" type="b2602c69:ProjectViewProjectNode" />
+              <item name="java_sep" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="server" type="462c0819:PsiDirectoryNode" />
+              <item name="dataprovider" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="java_sep" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DatabaseDriversLRU" value="postgresql" />
+    <property name="Downloaded.Files.Path.Enabled" value="false" />
+    <property name="Repository.Attach.Annotations" value="false" />
+    <property name="Repository.Attach.JavaDocs" value="false" />
+    <property name="Repository.Attach.Sources" value="false" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1551349216510" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit4" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.Arquillian JUnit4" value="" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit4" value="" />
+    <property name="create.test.in.the.same.root" value="true" />
+    <property name="database.console.LAST_STATE" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../../../SDJ2/SDJ2" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.3862069" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="client.viewmodel.loginviewmodel" />
+      <recent name="client.view.loginview" />
+      <recent name="client.model" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\Desktop\Bullshit\OneDrive\Software Engineering\Second Semester\SEP2\SEP2 - Repository\sep2-repository\java_sep\src\client\view\studentview\studentmainview" />
+      <recent name="D:\Desktop\Bullshit\OneDrive\Software Engineering\Second Semester\SEP2\SEP2 - Repository\sep2-repository\java_sep\src\client\view\teacherview\mainview" />
+    </key>
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="client.view.studentview" />
+      <recent name="client.model" />
+      <recent name="client.viewmodel.teacherviewmodel" />
+      <recent name="model" />
+      <recent name="view" />
+    </key>
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="" />
+    </key>
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="shared" />
+      <recent name="client.viewmodel.loginviewmodel" />
+      <recent name="client.view.teacherview.mainview" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Application.ServerStarter">
+    <configuration name="Run" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="client.launcher.Run" />
+      <module name="java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="server.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="RunAlt" type="Application" factoryName="Application" singleton="false" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="client.launcher.RunAlt" />
+      <module name="java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="server.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ServerStarter" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="server.ServerStarter" />
+      <module name="java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="server.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="combo_box_1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="shared.session.combo_box_1" />
+      <module name="java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="server.session.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ModelTest.getCredentials" type="ArquillianJUnit" factoryName="" temporary="true" nameIsGenerated="true">
+      <module name="java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="client.model.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="arquillianRunConfiguration">
+        <value>
+          <option name="containerStateName" value="" />
+        </value>
+      </option>
+      <option name="PACKAGE_NAME" value="client.model" />
+      <option name="MAIN_CLASS_NAME" value="client.model.ModelTest" />
+      <option name="METHOD_NAME" value="getCredentials" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.Run" />
+      <item itemvalue="Application.RunAlt" />
+      <item itemvalue="Application.ServerStarter" />
+      <item itemvalue="Application.combo_box_1" />
+      <item itemvalue="Arquillian JUnit.ModelTest.getCredentials" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.RunAlt" />
+        <item itemvalue="Application.ServerStarter" />
+        <item itemvalue="Application.Run" />
+        <item itemvalue="Arquillian JUnit.ModelTest.getCredentials" />
+        <item itemvalue="Application.combo_box_1" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="2a3795b0-18b3-424b-8517-b74243490c07" name="Default Changelist" comment="" />
+      <created>1551348364131</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1551348364131</updated>
+      <workItem from="1551348367683" duration="546000" />
+      <workItem from="1551349120311" duration="101000" />
+      <workItem from="1551379657644" duration="337000" />
+      <workItem from="1551380078690" duration="144000" />
+      <workItem from="1554998276733" duration="1568000" />
+      <workItem from="1554999867009" duration="145000" />
+      <workItem from="1555004156280" duration="731000" />
+      <workItem from="1555011029805" duration="52000" />
+      <workItem from="1555053220397" duration="4098000" />
+      <workItem from="1555057744459" duration="2048000" />
+      <workItem from="1555060673602" duration="4689000" />
+      <workItem from="1555094617175" duration="12485000" />
+      <workItem from="1555139397702" duration="6417000" />
+      <workItem from="1555147275811" duration="599000" />
+      <workItem from="1555192848162" duration="598000" />
+      <workItem from="1555225893609" duration="3744000" />
+      <workItem from="1555270068109" duration="5227000" />
+      <workItem from="1555275326981" duration="590000" />
+      <workItem from="1555314375677" duration="1498000" />
+      <workItem from="1555397281134" duration="790000" />
+      <workItem from="1556266919248" duration="2614000" />
+      <workItem from="1556289587407" duration="12421000" />
+      <workItem from="1556359874020" duration="19087000" />
+      <workItem from="1556397058412" duration="138000" />
+      <workItem from="1556455083416" duration="4607000" />
+      <workItem from="1556463473108" duration="16878000" />
+      <workItem from="1556518475941" duration="7461000" />
+      <workItem from="1556550293902" duration="19463000" />
+      <workItem from="1556613418785" duration="3095000" />
+      <workItem from="1556690749079" duration="6469000" />
+      <workItem from="1556698025301" duration="598000" />
+      <workItem from="1556720970990" duration="14341000" />
+      <workItem from="1556738238774" duration="2430000" />
+      <workItem from="1556779936345" duration="5393000" />
+      <workItem from="1556786841002" duration="775000" />
+      <workItem from="1557124097180" duration="10017000" />
+      <workItem from="1557209430105" duration="979000" />
+      <workItem from="1557219775204" duration="277000" />
+      <workItem from="1557220105761" duration="12000" />
+      <workItem from="1557296808485" duration="10171000" />
+      <workItem from="1557321451440" duration="6863000" />
+      <workItem from="1557338555992" duration="5619000" />
+      <workItem from="1557382617815" duration="10928000" />
+      <workItem from="1557418922624" duration="8273000" />
+      <workItem from="1557468779292" duration="12092000" />
+      <workItem from="1557502050516" duration="4853000" />
+      <workItem from="1557507762322" duration="26000" />
+      <workItem from="1557609218198" duration="1831000" />
+      <workItem from="1557684962483" duration="8175000" />
+      <workItem from="1557728675216" duration="10201000" />
+      <workItem from="1557816501300" duration="7778000" />
+      <workItem from="1557902120510" duration="5594000" />
+      <workItem from="1557944514926" duration="4235000" />
+      <workItem from="1558122835377" duration="7266000" />
+      <workItem from="1558336811635" duration="2447000" />
+      <workItem from="1558594494975" duration="1908000" />
+      <workItem from="1558602101257" duration="1021000" />
+      <workItem from="1558623912972" duration="8171000" />
+      <workItem from="1558635991190" duration="1500000" />
+      <workItem from="1558641764938" duration="3641000" />
+      <workItem from="1558648967010" duration="592000" />
+      <workItem from="1558681330022" duration="5734000" />
+      <workItem from="1558728247684" duration="1140000" />
+      <workItem from="1559112883378" duration="792000" />
+      <workItem from="1559201493320" duration="3438000" />
+      <workItem from="1559226224582" duration="2190000" />
+      <workItem from="1559249282224" duration="1986000" />
+      <workItem from="1559286290468" duration="9655000" />
+      <workItem from="1559506196306" duration="1264000" />
+      <workItem from="1559550958010" duration="4072000" />
+      <workItem from="1559771343548" duration="800000" />
+      <workItem from="1559807855881" duration="1535000" />
+      <workItem from="1559825448532" duration="2995000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="332248000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-7" y="0" width="974" height="1057" extended-state="0" />
+    <editor active="true" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49402392" visible="true" weight="0.24507658" />
+      <window_info id="Structure" order="1" sideWeight="0.5059761" side_tool="true" weight="0.28304905" />
+      <window_info id="Image Layers" order="2" />
+      <window_info id="Designer" order="3" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Capture Tool" order="5" />
+      <window_info id="Favorites" order="6" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32475883" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.4989339" weight="0.17532468" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.39978564" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="8" weight="0.3290461" />
+      <window_info anchor="bottom" id="Database Changes" order="9" weight="0.3290461" />
+      <window_info anchor="bottom" id="Terminal" order="10" weight="0.3290461" />
+      <window_info anchor="bottom" id="Event Log" order="11" sideWeight="0.5010661" side_tool="true" weight="0.19935691" />
+      <window_info anchor="bottom" id="Messages" order="12" weight="0.3290461" />
+      <window_info active="true" anchor="bottom" id="Database Console" order="13" visible="true" weight="0.39871383" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Theme Preview" order="4" />
+      <window_info anchor="right" id="Maven" order="5" />
+      <window_info anchor="right" id="Capture Analysis" order="6" />
+      <window_info anchor="right" id="Palette&#9;" order="7" />
+      <window_info anchor="right" id="Database" order="8" weight="0.3219616" />
+    </layout>
+    <layout-to-restore>
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49402392" visible="true" weight="0.11269147" />
+      <window_info id="Structure" order="1" sideWeight="0.5059761" side_tool="true" weight="0.28304905" />
+      <window_info id="Image Layers" order="2" />
+      <window_info id="Designer" order="3" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Capture Tool" order="5" />
+      <window_info id="Favorites" order="6" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32475883" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.4989339" visible="true" weight="0.19480519" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.39978564" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="8" weight="0.3290461" />
+      <window_info anchor="bottom" id="Database Changes" order="9" weight="0.3290461" />
+      <window_info anchor="bottom" id="Terminal" order="10" weight="0.3290461" />
+      <window_info anchor="bottom" id="Event Log" order="11" sideWeight="0.5010661" side_tool="true" weight="0.19935691" />
+      <window_info anchor="bottom" id="Messages" order="12" weight="0.3290461" />
+      <window_info active="true" anchor="bottom" id="Database Console" order="13" visible="true" weight="0.39871383" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Theme Preview" order="4" />
+      <window_info anchor="right" id="Maven" order="5" />
+      <window_info anchor="right" id="Capture Analysis" order="6" />
+      <window_info anchor="right" id="Palette&#9;" order="7" />
+      <window_info anchor="right" id="Database" order="8" weight="0.3219616" />
+    </layout-to-restore>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <ignored-roots>
+      <path value="$PROJECT_DIR$" />
+    </ignored-roots>
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/../../../../SDJ2/SDJ2/Assignment1/src/view/chat/ChatView.java</url>
+          <line>47</line>
+          <properties />
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/client/view/studentview/studentsessionview/StudentSessionView.java</url>
+          <line>309</line>
+          <properties />
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/client/view/studentview/studentsessionview/StudentSessionView.java</url>
+          <line>258</line>
+          <properties />
+          <option name="timeStamp" value="4" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/client/view/MainView.java</url>
+          <line>39</line>
+          <properties />
+          <option name="timeStamp" value="6" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="debuggerHistoryManager">
+    <expressions id="evaluateExpression">
+      <expression>
+        <expression-string>evt.getNewValue()</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+    </expressions>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/shared/resources/Topic.java" />
+    <entry file="file://$PROJECT_DIR$/src/client/view/teacherview/teacherinsessionview/TeacherInSessionView.fxml">
+      <provider editor-type-id="JavaFX-Scene-Builder" />
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="160" column="34" lean-forward="true" selection-start-line="160" selection-start-column="34" selection-end-line="160" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://D:/Program Files/JavaSDK11/lib/src.zip!/java.desktop/java/beans/PropertyChangeEvent.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="241">
+          <caret line="85" column="18" selection-start-line="85" selection-start-column="18" selection-end-line="85" selection-end-column="18" />
+          <folding>
+            <element signature="e#2487#2488#0" expanded="true" />
+            <element signature="e#2518#2519#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/client/model/ModelTest.java" />
+    <entry file="file://$PROJECT_DIR$/src/server/dataprovider/DatabaseCacheReader.java" />
+    <entry file="file://$PROJECT_DIR$/src/client/view/loginview/LoginViewTest.java" />
+    <entry file="file://$PROJECT_DIR$/src/client/viewmodel/loginviewmodel/LoginViewModelTest.java" />
+    <entry file="jar://D:/Program Files/JavaSDK11/lib/src.zip!/java.desktop/java/beans/PropertyChangeSupport.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="901">
+          <caret line="82" column="4" selection-start-line="82" selection-start-column="4" selection-end-line="82" selection-end-column="76" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/client/view/teacherview/teachersessionview/TeacherSessionView.fxml">
+      <provider editor-type-id="JavaFX-Scene-Builder" />
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/client/view/teacherview/classroomview/ClassroomView.fxml">
+      <provider editor-type-id="JavaFX-Scene-Builder" />
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="216">
+          <caret line="42" column="38" selection-start-line="42" selection-start-column="38" selection-end-line="42" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://D:/Program Files/JavaSDK11/lib/src.zip!/java.base/java/lang/String.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="301">
+          <caret line="124" column="19" selection-start-line="124" selection-start-column="19" selection-end-line="124" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/client/viewmodel/teacherviewmodel/classroomviewmodel/ClassroomViewModel.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="11" selection-start-line="11" selection-end-line="11" />
+          <folding>
+            <element signature="docComment;class#ClassroomViewModel#0" />
+            <element signature="docComment;method#ClassroomViewModel#0;class#ClassroomViewModel#0" />
+            <element signature="method#ClassroomViewModel#0;class#ClassroomViewModel#0" />
+            <element signature="docComment;method#createClassroom#0;class#ClassroomViewModel#0" />
+            <element signature="method#createClassroom#0;class#ClassroomViewModel#0" />
+            <element signature="e#1850#2074#1" />
+            <element signature="docComment;method#fetchClassrooms#0;class#ClassroomViewModel#0" />
+            <element signature="method#fetchClassrooms#0;class#ClassroomViewModel#0" />
+            <element signature="docComment;method#deleteClassroom#0;class#ClassroomViewModel#0" />
+            <element signature="method#deleteClassroom#0;class#ClassroomViewModel#0" />
+            <element signature="docComment;method#mainMenu#0;class#ClassroomViewModel#0" />
+            <element signature="method#mainMenu#0;class#ClassroomViewModel#0" />
+            <element signature="docComment;method#classroomIdProperty#0;class#ClassroomViewModel#0" />
+            <element signature="docComment;method#classroomNameProperty#0;class#ClassroomViewModel#0" />
+            <element signature="docComment;method#getClassrooms#0;class#ClassroomViewModel#0" />
+            <element signature="method#getClassrooms#0;class#ClassroomViewModel#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/client/viewmodel/teacherviewmodel/insessionviewmodel/TeacherInSessionViewModel.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="340">
+          <caret line="22" column="13" selection-start-line="22" selection-start-column="13" selection-end-line="22" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="docComment;class#TeacherInSessionViewModel#0" />
+            <element signature="docComment;method#TeacherInSessionViewModel#0;class#TeacherInSessionViewModel#0" />
+            <element signature="method#TeacherInSessionViewModel#0;class#TeacherInSessionViewModel#0" />
+            <element signature="docComment;method#setAccessCode#0;class#TeacherInSessionViewModel#0" />
+            <element signature="docComment;method#connectedStudent#0;class#TeacherInSessionViewModel#0" />
+            <element signature="method#connectedStudent#0;class#TeacherInSessionViewModel#0" />
+            <element signature="e#2458#2596#0" />
+            <element signature="docComment;method#getConnectedStudent#0;class#TeacherInSessionViewModel#0" />
+            <element signature="docComment;method#getSubmittedQuestion#0;class#TeacherInSessionViewModel#0" />
+            <element signature="docComment;method#newQuestion#0;class#TeacherInSessionViewModel#0" />
+            <element signature="method#newQuestion#0;class#TeacherInSessionViewModel#0" />
+            <element signature="e#3287#3533#0" />
+            <element signature="docComment;method#studentLabelProperty#0;class#TeacherInSessionViewModel#0" />
+            <element signature="docComment;method#accessCodeLabelProperty#0;class#TeacherInSessionViewModel#0" />
+            <element signature="docComment;method#questionAcceptProperty#0;class#TeacherInSessionViewModel#0" />
+            <element signature="docComment;method#mainMenu#0;class#TeacherInSessionViewModel#0" />
+            <element signature="method#mainMenu#0;class#TeacherInSessionViewModel#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/client/viewmodel/teacherviewmodel/teachermainviewmodel/TeacherMainViewModel.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="8" column="32" selection-start-line="8" selection-start-column="32" selection-end-line="8" selection-end-column="32" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="docComment;class#TeacherMainViewModel#0" />
+            <element signature="docComment;method#TeacherMainViewModel#0;class#TeacherMainViewModel#0" />
+            <element signature="method#TeacherMainViewModel#0;class#TeacherMainViewModel#0" />
+            <element signature="docComment;method#openSession#0;class#TeacherMainViewModel#0" />
+            <element signature="method#openSession#0;class#TeacherMainViewModel#0" />
+            <element signature="docComment;method#openHistory#0;class#TeacherMainViewModel#0" />
+            <element signature="method#openHistory#0;class#TeacherMainViewModel#0" />
+            <element signature="docComment;method#openClassroom#0;class#TeacherMainViewModel#0" />
+            <element signature="method#openClassroom#0;class#TeacherMainViewModel#0" />
+            <element signature="docComment;method#openTopic#0;class#TeacherMainViewModel#0" />
+            <element signature="method#openTopic#0;class#TeacherMainViewModel#0" />
+            <element signature="docComment;method#setCredentials#0;class#TeacherMainViewModel#0" />
+            <element signature="method#setCredentials#0;class#TeacherMainViewModel#0" />
+            <element signature="docComment;method#logOut#0;class#TeacherMainViewModel#0" />
+            <element signature="method#logOut#0;class#TeacherMainViewModel#0" />
+            <element signature="docComment;method#settings#0;class#TeacherMainViewModel#0" />
+            <element signature="method#settings#0;class#TeacherMainViewModel#0" />
+            <element signature="docComment;method#userNameProperty#0;class#TeacherMainViewModel#0" />
+            <element signature="docComment;method#accountNumberProperty#0;class#TeacherMainViewModel#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/client/model/IPropertyChangeSubject.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="10" column="1" selection-start-line="10" selection-start-column="1" selection-end-line="10" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/client/view/loginview/LoginView.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="18" column="13" selection-start-line="18" selection-start-column="13" selection-end-line="18" selection-end-column="13" />
+          <folding>
+            <element signature="docComment;class#LoginView#0" />
+            <element signature="docComment;method#initiate#0;class#LoginView#0" />
+            <element signature="method#initiate#0;class#LoginView#0" />
+            <element signature="docComment;method#onLoginButton#0;class#LoginView#0" />
+            <element signature="docComment;method#onRegisterButton#0;class#LoginView#0" />
+            <element signature="docComment;method#onCancelButton#0;class#LoginView#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/client/view/registerview/RegisterView.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="17" column="13" selection-start-line="17" selection-start-column="13" selection-end-line="17" selection-end-column="13" />
+          <folding>
+            <element signature="docComment;class#RegisterView#0" />
+            <element signature="docComment;method#initiate#0;class#RegisterView#0" />
+            <element signature="method#initiate#0;class#RegisterView#0" />
+            <element signature="docComment;method#onRegisterButton#0;class#RegisterView#0" />
+            <element signature="docComment;method#onCancelButton#0;class#RegisterView#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/client/view/studentview/studentmainview/StudentMainView.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="14" column="13" selection-start-line="14" selection-start-column="13" selection-end-line="14" selection-end-column="13" />
+          <folding>
+            <element signature="docComment;class#StudentMainView#0" />
+            <element signature="docComment;method#initiate#0;class#StudentMainView#0" />
+            <element signature="method#initiate#0;class#StudentMainView#0" />
+            <element signature="docComment;method#onLogOutButton#0;class#StudentMainView#0" />
+            <element signature="docComment;method#onHistoryButton#0;class#StudentMainView#0" />
+            <element signature="method#onHistoryButton#0;class#StudentMainView#0" />
+            <element signature="docComment;method#onJoinQuizzButton#0;class#StudentMainView#0" />
+            <element signature="method#onJoinQuizzButton#0;class#StudentMainView#0" />
+            <element signature="docComment;method#onJoinSessionButton#0;class#StudentMainView#0" />
+            <element signature="method#onJoinSessionButton#0;class#StudentMainView#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/client/view/teacherview/classroomview/ClassroomView.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="19" column="13" selection-start-line="19" selection-start-column="13" selection-end-line="19" selection-end-column="13" />
+          <folding>
+            <element signature="docComment;class#ClassroomView#0" />
+            <element signature="docComment;method#initiate#0;class#ClassroomView#0" />
+            <element signature="method#initiate#0;class#ClassroomView#0" />
+            <element signature="docComment;method#onCreateButton#0;class#ClassroomView#0" />
+            <element signature="docComment;method#onDeleteButton#0;class#ClassroomView#0" />
+            <element signature="method#onDeleteButton#0;class#ClassroomView#0" />
+            <element signature="e#2180#2304#1" />
+            <element signature="docComment;method#onMainMenuButton#0;class#ClassroomView#0" />
+            <element signature="docComment;method#addComboBoxEvent#0;class#ClassroomView#0" />
+            <element signature="method#addComboBoxEvent#0;class#ClassroomView#0" />
+            <element signature="e#2796#3104#0" />
+            <element signature="e#2896#2966#1" />
+            <element signature="e#3004#3090#1" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/client/view/teacherview/teachermainview/TeacherMainView.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="14" column="13" selection-start-line="14" selection-start-column="13" selection-end-line="14" selection-end-column="13" />
+          <folding>
+            <element signature="docComment;class#TeacherMainView#0" />
+            <element signature="docComment;method#initiate#0;class#TeacherMainView#0" />
+            <element signature="method#initiate#0;class#TeacherMainView#0" />
+            <element signature="docComment;method#onSessionButton#0;class#TeacherMainView#0" />
+            <element signature="docComment;method#onHistoryButton#0;class#TeacherMainView#0" />
+            <element signature="docComment;method#onClassroomButton#0;class#TeacherMainView#0" />
+            <element signature="docComment;method#onTopicButton#0;class#TeacherMainView#0" />
+            <element signature="docComment;method#onLogOutButton#0;class#TeacherMainView#0" />
+            <element signature="docComment;method#onUserSetttingsButton#0;class#TeacherMainView#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/client/view/teacherview/topicview/TopicView.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="21" column="13" selection-start-line="21" selection-start-column="13" selection-end-line="21" selection-end-column="13" />
+          <folding>
+            <element signature="docComment;class#TopicView#0" />
+            <element signature="docComment;method#initiate#0;class#TopicView#0" />
+            <element signature="method#initiate#0;class#TopicView#0" />
+            <element signature="docComment;method#onCreateTopicButton#0;class#TopicView#0" />
+            <element signature="method#onCreateTopicButton#0;class#TopicView#0" />
+            <element signature="docComment;method#onEditTopicButton#0;class#TopicView#0" />
+            <element signature="method#onEditTopicButton#0;class#TopicView#0" />
+            <element signature="docComment;method#onDeleteTopicButton#0;class#TopicView#0" />
+            <element signature="method#onDeleteTopicButton#0;class#TopicView#0" />
+            <element signature="docComment;method#onMainMenuButton#0;class#TopicView#0" />
+            <element signature="docComment;method#onAddWordButton#0;class#TopicView#0" />
+            <element signature="method#onAddWordButton#0;class#TopicView#0" />
+            <element signature="docComment;method#onEditWordButton#0;class#TopicView#0" />
+            <element signature="method#onEditWordButton#0;class#TopicView#0" />
+            <element signature="e#3792#3845#1" />
+            <element signature="e#3867#4037#1" />
+            <element signature="docComment;method#onDeleteWordButton#0;class#TopicView#0" />
+            <element signature="method#onDeleteWordButton#0;class#TopicView#0" />
+            <element signature="e#4330#4385#1" />
+            <element signature="e#4407#4515#1" />
+            <element signature="docComment;method#importWords#0;class#TopicView#0" />
+            <element signature="method#importWords#0;class#TopicView#0" />
+            <element signature="e#4938#5437#1" />
+            <element signature="e#5157#5195#1" />
+            <element signature="e#5225#5426#1" />
+            <element signature="docComment;method#addComboBoxEvent#0;class#TopicView#0" />
+            <element signature="method#addComboBoxEvent#0;class#TopicView#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/server/dataprovider/IDataManager.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="14" column="17" selection-start-line="14" selection-start-column="17" selection-end-line="14" selection-end-column="17" />
+          <folding>
+            <element signature="docComment;class#IDataManager#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/server/session/SessionServer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="21" column="32" lean-forward="true" selection-start-line="21" selection-start-column="32" selection-end-line="21" selection-end-column="32" />
+          <folding>
+            <element signature="docComment;class#SessionServer#0" />
+            <element signature="docComment;method#SessionServer#0;class#SessionServer#0" />
+            <element signature="method#SessionServer#0;class#SessionServer#0" />
+            <element signature="docComment;method#connectedStudents#0;class#SessionServer#0" />
+            <element signature="docComment;method#removeFromStudentList#0;class#SessionServer#0" />
+            <element signature="method#removeFromStudentList#0;class#SessionServer#0" />
+            <element signature="docComment;method#registerForCallback#0;class#SessionServer#0" />
+            <element signature="method#registerForCallback#0;class#SessionServer#0" />
+            <element signature="e#2211#2338#1" />
+            <element signature="docComment;method#registerStudentForCallback#0;class#SessionServer#0" />
+            <element signature="method#registerStudentForCallback#0;class#SessionServer#0" />
+            <element signature="e#2666#2794#1" />
+            <element signature="docComment;method#doCallbacksNewQuestion#0;class#SessionServer#0" />
+            <element signature="method#doCallbacksNewQuestion#0;class#SessionServer#0" />
+            <element signature="e#3295#3604#0" />
+            <element signature="docComment;method#doCallbacksStudent#0;class#SessionServer#0" />
+            <element signature="method#doCallbacksStudent#0;class#SessionServer#0" />
+            <element signature="e#4182#4492#0" />
+            <element signature="docComment;method#doCallbacksNewStudent#0;class#SessionServer#0" />
+            <element signature="method#doCallbacksNewStudent#0;class#SessionServer#0" />
+            <element signature="e#5092#5400#0" />
+            <element signature="docComment;method#getTopic#0;class#SessionServer#0" />
+            <element signature="docComment;method#getWords#0;class#SessionServer#0" />
+            <element signature="docComment;method#setSelectedWord#0;class#SessionServer#0" />
+            <element signature="method#setSelectedWord#0;class#SessionServer#0" />
+            <element signature="n#!!doc;n#getSubmittedWords#0;n#SessionServer#0" />
+            <element signature="method#getSubmittedWords#0;class#SessionServer#0" />
+            <element signature="docComment;method#getSelectedWords#0;class#SessionServer#0" />
+            <element signature="method#getSelectedWords#0;class#SessionServer#0" />
+            <element signature="docComment;method#submitQuestion#0;class#SessionServer#0" />
+            <element signature="method#submitQuestion#0;class#SessionServer#0" />
+            <element signature="docComment;method#retrieveQuestion#0;class#SessionServer#0" />
+            <element signature="method#retrieveQuestion#0;class#SessionServer#0" />
+            <element signature="docComment;method#getClassroom#0;class#SessionServer#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://D:/Program Files/JavaSDK11/lib/src.zip!/java.rmi/java/rmi/server/UnicastRemoteObject.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-728">
+          <caret line="181" column="13" selection-start-line="181" selection-start-column="13" selection-end-line="181" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/shared/callback/ICallBack.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="18" column="45" selection-start-line="18" selection-start-column="45" selection-end-line="18" selection-end-column="45" />
+          <folding>
+            <element signature="docComment;class#ICallBack#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/shared/IServer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="289">
+          <caret line="27" column="11" selection-start-line="27" selection-start-column="11" selection-end-line="27" selection-end-column="11" />
+          <folding>
+            <element signature="docComment;class#IServer#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/client/viewmodel/studentviewmodel/studentmainviewmodel/StudentMainViewModel.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="578">
+          <caret line="104" column="26" selection-start-line="104" selection-start-column="26" selection-end-line="104" selection-end-column="26" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="docComment;class#StudentMainViewModel#0" />
+            <element signature="docComment;method#StudentMainViewModel#0;class#StudentMainViewModel#0" />
+            <element signature="method#StudentMainViewModel#0;class#StudentMainViewModel#0" />
+            <element signature="docComment;method#userNameProperty#0;class#StudentMainViewModel#0" />
+            <element signature="docComment;method#accountNumberProperty#0;class#StudentMainViewModel#0" />
+            <element signature="docComment;method#setCredentials#0;class#StudentMainViewModel#0" />
+            <element signature="method#setCredentials#0;class#StudentMainViewModel#0" />
+            <element signature="docComment;method#logOut#0;class#StudentMainViewModel#0" />
+            <element signature="method#logOut#0;class#StudentMainViewModel#0" />
+            <element signature="docComment;method#onSessionJoinButton#0;class#StudentMainViewModel#0" />
+            <element signature="method#onSessionJoinButton#0;class#StudentMainViewModel#0" />
+            <element signature="docComment;method#errorLabelProperty#0;class#StudentMainViewModel#0" />
+            <element signature="e#2552#2553#0" expanded="true" />
+            <element signature="e#2585#2586#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/client/viewmodel/registerviewmodel/RegisterViewModel.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="18" column="13" selection-start-line="18" selection-start-column="13" selection-end-line="18" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="docComment;class#RegisterViewModel#0" />
+            <element signature="docComment;method#RegisterViewModel#0;class#RegisterViewModel#0" />
+            <element signature="method#RegisterViewModel#0;class#RegisterViewModel#0" />
+            <element signature="docComment;method#registerUser#0;class#RegisterViewModel#0" />
+            <element signature="method#registerUser#0;class#RegisterViewModel#0" />
+            <element signature="docComment;method#exit#0;class#RegisterViewModel#0" />
+            <element signature="method#exit#0;class#RegisterViewModel#0" />
+            <element signature="docComment;method#isTeacherProperty#0;class#RegisterViewModel#0" />
+            <element signature="docComment;method#firstNameProperty#0;class#RegisterViewModel#0" />
+            <element signature="docComment;method#lastNameProperty#0;class#RegisterViewModel#0" />
+            <element signature="docComment;method#emailProperty#0;class#RegisterViewModel#0" />
+            <element signature="docComment;method#accountNumberProperty#0;class#RegisterViewModel#0" />
+            <element signature="docComment;method#passwordProperty#0;class#RegisterViewModel#0" />
+            <element signature="docComment;method#userNotRegisteredMessageProperty#0;class#RegisterViewModel#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/client/model/IModel.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="15" column="17" selection-start-line="15" selection-start-column="17" selection-end-line="15" selection-end-column="17" />
+          <folding>
+            <element signature="docComment;class#IModel#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/shared/session/ISessionServer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="15" column="17" selection-start-line="15" selection-start-column="17" selection-end-line="15" selection-end-column="17" />
+          <folding>
+            <element signature="docComment;class#ISessionServer#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/shared/callback/CallBack.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="14" column="44" selection-start-line="14" selection-start-column="44" selection-end-line="14" selection-end-column="44" />
+          <folding>
+            <element signature="docComment;class#CallBack#0" />
+            <element signature="docComment;method#CallBack#0;class#CallBack#0" />
+            <element signature="docComment;method#newQuestion#0;class#CallBack#0" />
+            <element signature="method#newQuestion#0;class#CallBack#0" />
+            <element signature="docComment;method#selectedWord#0;class#CallBack#0" />
+            <element signature="method#selectedWord#0;class#CallBack#0" />
+            <element signature="docComment;method#newStudent#0;class#CallBack#0" />
+            <element signature="method#newStudent#0;class#CallBack#0" />
+            <element signature="docComment;method#getStudent#0;class#CallBack#0" />
+            <element signature="method#getStudent#0;class#CallBack#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/client/viewmodel/teacherviewmodel/topicviewmodel/TopicViewModel.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="16" column="13" selection-start-line="16" selection-start-column="13" selection-end-line="16" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="docComment;class#TopicViewModel#0" />
+            <element signature="docComment;method#TopicViewModel#0;class#TopicViewModel#0" />
+            <element signature="method#TopicViewModel#0;class#TopicViewModel#0" />
+            <element signature="docComment;method#createTopic#0;class#TopicViewModel#0" />
+            <element signature="method#createTopic#0;class#TopicViewModel#0" />
+            <element signature="docComment;method#editTopic#0;class#TopicViewModel#0" />
+            <element signature="method#editTopic#0;class#TopicViewModel#0" />
+            <element signature="docComment;method#deleteTopic#0;class#TopicViewModel#0" />
+            <element signature="method#deleteTopic#0;class#TopicViewModel#0" />
+            <element signature="docComment;method#addWord#0;class#TopicViewModel#0" />
+            <element signature="method#addWord#0;class#TopicViewModel#0" />
+            <element signature="docComment;method#editWord#0;class#TopicViewModel#0" />
+            <element signature="method#editWord#0;class#TopicViewModel#0" />
+            <element signature="docComment;method#deleteWord#0;class#TopicViewModel#0" />
+            <element signature="method#deleteWord#0;class#TopicViewModel#0" />
+            <element signature="docComment;method#mainMenu#0;class#TopicViewModel#0" />
+            <element signature="docComment;method#fetchWord#0;class#TopicViewModel#0" />
+            <element signature="docComment;method#fetchTopics#0;class#TopicViewModel#0" />
+            <element signature="docComment;method#newTopicProperty#0;class#TopicViewModel#0" />
+            <element signature="docComment;method#newWordProperty#0;class#TopicViewModel#0" />
+            <element signature="docComment;method#editTopicProperty#0;class#TopicViewModel#0" />
+            <element signature="docComment;method#noTopicSelectedProperty#0;class#TopicViewModel#0" />
+            <element signature="docComment;method#noTopicNameProperty#0;class#TopicViewModel#0" />
+            <element signature="docComment;method#noWordNameProperty#0;class#TopicViewModel#0" />
+            <element signature="docComment;method#noWordSelectedProperty#0;class#TopicViewModel#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/client/viewmodel/studentviewmodel/sessionviewmodel/StudentSessionViewModel.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="19" column="13" selection-start-line="19" selection-start-column="13" selection-end-line="19" selection-end-column="13" />
+          <folding>
+            <element signature="docComment;class#StudentSessionViewModel#0" />
+            <element signature="e#903#934#0" />
+            <element signature="e#903#2845#0" />
+            <element signature="e#2851#2919#0" />
+            <element signature="e#2851#5378#0" />
+            <element signature="e#3246#3298#1" />
+            <element signature="e#3320#5372#1" />
+            <element signature="e#3410#3730#1" />
+            <element signature="e#3782#4102#1" />
+            <element signature="e#4154#4474#1" />
+            <element signature="e#4526#4846#1" />
+            <element signature="e#5384#5478#0" />
+            <element signature="e#5384#5781#0" />
+            <element signature="e#5608#5775#1" />
+            <element signature="e#5787#5879#0" />
+            <element signature="e#5787#6150#0" />
+            <element signature="e#6156#6229#0" />
+            <element signature="e#6320#6441#0" />
+            <element signature="e#6320#6712#0" />
+            <element signature="e#6718#6812#0" />
+            <element signature="e#6921#7002#0" />
+            <element signature="e#6921#7357#0" />
+            <element signature="e#7363#7456#0" />
+            <element signature="e#7562#7657#0" />
+            <element signature="e#7766#7807#0" />
+            <element signature="e#7893#7933#0" />
+            <element signature="e#8017#8058#0" />
+            <element signature="e#8144#8185#0" />
+            <element signature="e#8275#8316#0" />
+            <element signature="e#8396#8437#0" />
+            <element signature="e#8535#8576#0" />
+            <element signature="e#8663#8704#0" />
+            <element signature="e#8800#8841#0" />
+            <element signature="e#8927#8968#0" />
+            <element signature="e#9054#9095#0" />
+            <element signature="e#9181#9222#0" />
+            <element signature="e#9308#9349#0" />
+            <element signature="e#9443#9484#0" />
+            <element signature="e#9578#9619#0" />
+            <element signature="e#9721#9762#0" />
+            <element signature="e#9862#9903#0" />
+            <element signature="e#10003#10045#0" />
+            <element signature="e#10130#10172#0" />
+            <element signature="e#10257#10299#0" />
+            <element signature="e#10384#10426#0" />
+            <element signature="e#10511#10553#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/AppData/Local/Temp/scp25709/home/el-aasi/Java/SEP/ServerStarter.java" />
+    <entry file="file://$PROJECT_DIR$/src/client/view/studentview/studentsessionview/StudentSessionView.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="457">
+          <caret line="234" lean-forward="true" selection-start-line="234" selection-end-line="234" />
+          <folding>
+            <element signature="docComment;class#StudentSessionView#0" />
+            <element signature="e#1297#1376#0" />
+            <element signature="e#1297#4873#0" />
+            <element signature="e#4879#4958#0" />
+            <element signature="e#4879#5276#0" />
+            <element signature="e#5088#5140#1" />
+            <element signature="e#5162#5269#1" />
+            <element signature="e#5282#5363#0" />
+            <element signature="e#5282#5680#0" />
+            <element signature="e#5591#5674#1" />
+            <element signature="e#5686#5782#0" />
+            <element signature="e#5686#7389#0" />
+            <element signature="e#6208#6298#1" />
+            <element signature="e#6464#6890#1" />
+            <element signature="e#6548#6880#1" />
+            <element signature="e#6673#6866#1" />
+            <element signature="e#6956#7383#1" />
+            <element signature="e#7040#7373#1" />
+            <element signature="e#7166#7359#1" />
+            <element signature="e#7395#7461#0" />
+            <element signature="e#7395#8352#0" />
+            <element signature="e#7848#8346#1" />
+            <element signature="e#8066#8104#1" />
+            <element signature="e#8134#8335#1" />
+            <element signature="e#8358#8450#0" />
+            <element signature="e#8680#8746#0" />
+            <element signature="e#8923#8990#0" />
+            <element signature="e#9405#9528#0" />
+            <element signature="e#9575#9698#0" />
+            <element signature="e#9745#9868#0" />
+            <element signature="e#9915#10038#0" />
+            <element signature="e#10052#10152#0" />
+            <element signature="e#10332#10386#1" />
+            <element signature="e#10436#10500#0" />
+            <element signature="e#10688#10762#1" />
+            <element signature="e#10809#10883#1" />
+            <element signature="e#10930#11004#1" />
+            <element signature="e#11051#11125#1" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/client/view/teacherview/teacherinsessionview/TeacherInSessionView.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="155">
+          <caret line="40" selection-start-line="39" selection-end-line="40" />
+          <folding>
+            <element signature="docComment;class#TeacherInSessionView#0" />
+            <element signature="docComment;method#initiate#0;class#TeacherInSessionView#0" />
+            <element signature="docComment;method#setQuestionPreview#0;class#TeacherInSessionView#0" />
+            <element signature="method#setQuestionPreview#0;class#TeacherInSessionView#0" />
+            <element signature="e#2637#3809#1" />
+            <element signature="method#setConnectedStudentList#0;class#TeacherInSessionView#0" />
+            <element signature="e#4120#4821#1" />
+            <element signature="docComment;method#onSubmitReviewButton#0;class#TeacherInSessionView#0" />
+            <element signature="method#onSubmitReviewButton#0;class#TeacherInSessionView#0" />
+            <element signature="docComment;method#onMainMenuButton#0;class#TeacherInSessionView#0" />
+            <element signature="e#5335#5495#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/client/view/teacherview/teachersessionview/TeacherSessionView.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="493">
+          <caret line="64" column="4" selection-start-line="64" selection-start-column="4" selection-end-line="64" selection-end-column="4" />
+          <folding>
+            <element signature="docComment;class#TeacherSessionView#0" />
+            <element signature="docComment;method#initiate#0;class#TeacherSessionView#0" />
+            <element signature="method#initiate#0;class#TeacherSessionView#0" />
+            <element signature="method#onCreateSessionButton#0;class#TeacherSessionView#0" />
+            <element signature="docComment;method#onMainMenuButton#0;class#TeacherSessionView#0" />
+            <element signature="docComment;method#importWords#0;class#TeacherSessionView#0" />
+            <element signature="method#importWords#0;class#TeacherSessionView#0" />
+            <element signature="e#2976#3915#1" />
+            <element signature="e#3097#3577#0" />
+            <element signature="e#3217#3295#1" />
+            <element signature="e#3373#3454#1" />
+            <element signature="e#3684#3722#1" />
+            <element signature="e#3752#3904#1" />
+            <element signature="docComment;method#updateSelectedWords#0;class#TeacherSessionView#0" />
+            <element signature="method#updateSelectedWords#0;class#TeacherSessionView#0" />
+            <element signature="e#4188#4612#1" />
+            <element signature="e#4374#4412#1" />
+            <element signature="e#4442#4602#1" />
+            <element signature="docComment;method#addClassroomComboBoxEvent#0;class#TeacherSessionView#0" />
+            <element signature="method#addClassroomComboBoxEvent#0;class#TeacherSessionView#0" />
+            <element signature="e#5214#5474#0" />
+            <element signature="e#5302#5361#1" />
+            <element signature="e#5391#5464#1" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/client/viewmodel/loginviewmodel/LoginViewModel.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="799">
+          <caret line="95" column="5" selection-start-line="95" selection-start-column="5" selection-end-line="95" selection-end-column="5" />
+          <folding>
+            <element signature="docComment;class#LoginViewModel#0" />
+            <element signature="docComment;method#LoginViewModel#0;class#LoginViewModel#0" />
+            <element signature="method#LoginViewModel#0;class#LoginViewModel#0" />
+            <element signature="docComment;method#logIn#0;class#LoginViewModel#0" />
+            <element signature="method#logIn#0;class#LoginViewModel#0" />
+            <element signature="e#2352#2662#1" />
+            <element signature="e#2684#3034#1" />
+            <element signature="docComment;method#changeToRegister#0;class#LoginViewModel#0" />
+            <element signature="method#changeToRegister#0;class#LoginViewModel#0" />
+            <element signature="docComment;method#exit#0;class#LoginViewModel#0" />
+            <element signature="docComment;method#isTeacherProperty#0;class#LoginViewModel#0" />
+            <element signature="docComment;method#loginProperty#0;class#LoginViewModel#0" />
+            <element signature="docComment;method#wrongCredentialsStateProperty#0;class#LoginViewModel#0" />
+            <element signature="docComment;method#passwordProperty#0;class#LoginViewModel#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/client/viewmodel/teacherviewmodel/sessionviewmodel/TeacherSessionViewModel.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="578">
+          <caret line="49" selection-start-line="49" selection-end-line="49" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="docComment;class#TeacherSessionViewModel#0" />
+            <element signature="docComment;method#TeacherSessionViewModel#0;class#TeacherSessionViewModel#0" />
+            <element signature="method#TeacherSessionViewModel#0;class#TeacherSessionViewModel#0" />
+            <element signature="docComment;method#mainMenu#0;class#TeacherSessionViewModel#0" />
+            <element signature="method#mainMenu#0;class#TeacherSessionViewModel#0" />
+            <element signature="docComment;method#fetchWord#0;class#TeacherSessionViewModel#0" />
+            <element signature="docComment;method#fetchTopics#0;class#TeacherSessionViewModel#0" />
+            <element signature="docComment;method#sessionNotCreatedProperty#0;class#TeacherSessionViewModel#0" />
+            <element signature="docComment;method#editTopicProperty#0;class#TeacherSessionViewModel#0" />
+            <element signature="docComment;method#getClassrooms#0;class#TeacherSessionViewModel#0" />
+            <element signature="method#getClassrooms#0;class#TeacherSessionViewModel#0" />
+            <element signature="docComment;method#fetchClassrooms#0;class#TeacherSessionViewModel#0" />
+            <element signature="method#fetchClassrooms#0;class#TeacherSessionViewModel#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/server/Server.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1734">
+          <caret line="162" column="8" selection-start-line="162" selection-start-column="8" selection-end-line="162" selection-end-column="8" />
+          <folding>
+            <element signature="docComment;class#Server#0" />
+            <element signature="docComment;method#Server#0;class#Server#0" />
+            <element signature="method#Server#0;class#Server#0" />
+            <element signature="docComment;method#checkCredentials#0;class#Server#0" />
+            <element signature="method#checkCredentials#0;class#Server#0" />
+            <element signature="e#1735#1927#1" />
+            <element signature="e#1989#2025#1" />
+            <element signature="e#2047#2239#1" />
+            <element signature="docComment;method#registerUser#0;class#Server#0" />
+            <element signature="method#registerUser#0;class#Server#0" />
+            <element signature="docComment;method#createTopic#0;class#Server#0" />
+            <element signature="docComment;method#fetchTopics#0;class#Server#0" />
+            <element signature="method#fetchTopics#0;class#Server#0" />
+            <element signature="docComment;method#editTopic#0;class#Server#0" />
+            <element signature="method#editTopic#0;class#Server#0" />
+            <element signature="docComment;method#deleteTopic#0;class#Server#0" />
+            <element signature="docComment;method#fetchWord#0;class#Server#0" />
+            <element signature="docComment;method#addWord#0;class#Server#0" />
+            <element signature="method#addWord#0;class#Server#0" />
+            <element signature="docComment;method#editWord#0;class#Server#0" />
+            <element signature="method#editWord#0;class#Server#0" />
+            <element signature="docComment;method#deleteWord#0;class#Server#0" />
+            <element signature="method#deleteWord#0;class#Server#0" />
+            <element signature="docComment;method#createClassroom#0;class#Server#0" />
+            <element signature="method#createClassroom#0;class#Server#0" />
+            <element signature="docComment;method#fetchClassrooms#0;class#Server#0" />
+            <element signature="method#fetchClassrooms#0;class#Server#0" />
+            <element signature="docComment;method#deleteClassroom#0;class#Server#0" />
+            <element signature="method#deleteClassroom#0;class#Server#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/client/viewmodel/MainViewModel.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="986">
+          <caret line="135" column="4" selection-start-line="135" selection-start-column="4" selection-end-line="135" selection-end-column="4" />
+          <folding>
+            <element signature="docComment;class#MainViewModel#0" />
+            <element signature="docComment;method#MainViewModel#0;class#MainViewModel#0" />
+            <element signature="method#MainViewModel#0;class#MainViewModel#0" />
+            <element signature="docComment;method#getInstance#0;class#MainViewModel#0" />
+            <element signature="method#getInstance#0;class#MainViewModel#0" />
+            <element signature="e#2310#2370#1" />
+            <element signature="docComment;method#getLoginViewModel#0;class#MainViewModel#0" />
+            <element signature="docComment;method#getRegisterViewModel#0;class#MainViewModel#0" />
+            <element signature="docComment;method#getTeacherMainViewModel#0;class#MainViewModel#0" />
+            <element signature="e#2970#2971#0" expanded="true" />
+            <element signature="e#3016#3017#0" expanded="true" />
+            <element signature="docComment;method#getStudentMainViewModel#0;class#MainViewModel#0" />
+            <element signature="docComment;method#getTeacherInSessionViewModel#0;class#MainViewModel#0" />
+            <element signature="docComment;method#getStudentSessionViewModel#0;class#MainViewModel#0" />
+            <element signature="docComment;method#getTopicViewModel#0;class#MainViewModel#0" />
+            <element signature="docComment;method#getClassroomViewModel#0;class#MainViewModel#0" />
+            <element signature="docComment;method#notifyStudentOut#0;class#MainViewModel#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/client/model/Model.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="199" column="13" selection-start-line="199" selection-start-column="13" selection-end-line="199" selection-end-column="13" />
+          <folding>
+            <element signature="docComment;class#Model#0" />
+            <element signature="e#1628#1771#0" />
+            <element signature="e#1628#2326#0" />
+            <element signature="e#1914#2005#0" />
+            <element signature="e#2048#2092#0" />
+            <element signature="e#2233#2270#1" />
+            <element signature="e#2284#2320#1" />
+            <element signature="e#2332#2474#0" />
+            <element signature="e#2332#2992#0" />
+            <element signature="e#2696#2866#0" />
+            <element signature="e#2909#2953#0" />
+            <element signature="e#2998#3080#0" />
+            <element signature="e#3166#3202#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/shared/resources/Classroom.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1003">
+          <caret line="62" column="37" selection-start-line="62" selection-start-column="37" selection-end-line="62" selection-end-column="37" />
+          <folding>
+            <element signature="method#Classroom#0;class#Classroom#0" />
+            <element signature="e#293#294#0" expanded="true" />
+            <element signature="e#320#321#0" expanded="true" />
+            <element signature="e#353#354#0" expanded="true" />
+            <element signature="e#378#379#0" expanded="true" />
+            <element signature="e#422#423#0" expanded="true" />
+            <element signature="e#454#455#0" expanded="true" />
+            <element signature="e#494#495#0" expanded="true" />
+            <element signature="e#522#523#0" expanded="true" />
+            <element signature="e#572#573#0" expanded="true" />
+            <element signature="e#598#599#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/shared/resources/Question.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="306">
+          <caret line="34" column="7" lean-forward="true" selection-start-line="34" selection-start-column="7" selection-end-line="34" selection-end-column="7" />
+          <folding>
+            <element signature="docComment;class#Question#0" />
+            <element signature="docComment;method#Question#0;class#Question#0" />
+            <element signature="method#Question#0;class#Question#0" />
+            <element signature="docComment;method#getStudentNumber#0;class#Question#0" />
+            <element signature="docComment;method#getAnswer1#0;class#Question#0" />
+            <element signature="docComment;method#getAnswer2#0;class#Question#0" />
+            <element signature="docComment;method#getAnswer3#0;class#Question#0" />
+            <element signature="docComment;method#getAnswer4#0;class#Question#0" />
+            <element signature="docComment;method#setQuestion#0;class#Question#0" />
+            <element signature="docComment;method#setWord#0;class#Question#0" />
+            <element signature="docComment;method#setType#0;class#Question#0" />
+            <element signature="docComment;method#setCorrectAnswer#0;class#Question#0" />
+            <element signature="docComment;method#getQuestion#0;class#Question#0" />
+            <element signature="docComment;method#getWord#0;class#Question#0" />
+            <element signature="docComment;method#getType#0;class#Question#0" />
+            <element signature="docComment;method#getCorrectAnswer#0;class#Question#0" />
+            <element signature="docComment;method#toString#0;class#Question#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/shared/resources/ServerInfo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="12" column="16" selection-start-line="12" selection-start-column="16" selection-end-line="12" selection-end-column="16" />
+          <folding>
+            <element signature="docComment;class#ServerInfo#0" />
+            <element signature="docComment;method#ServerInfo#0;class#ServerInfo#0" />
+            <element signature="method#ServerInfo#0;class#ServerInfo#0" />
+            <element signature="docComment;method#setIpAddress#0;class#ServerInfo#0" />
+            <element signature="docComment;method#setAccessCode#0;class#ServerInfo#0" />
+            <element signature="docComment;method#setOperator#0;class#ServerInfo#0" />
+            <element signature="docComment;method#setPort#0;class#ServerInfo#0" />
+            <element signature="docComment;method#getIpAddress#0;class#ServerInfo#0" />
+            <element signature="docComment;method#getAccessCode#0;class#ServerInfo#0" />
+            <element signature="docComment;method#getOperator#0;class#ServerInfo#0" />
+            <element signature="docComment;method#getPort#0;class#ServerInfo#0" />
+            <element signature="docComment;method#setClassroom#0;class#ServerInfo#0" />
+            <element signature="docComment;method#getClassroom#0;class#ServerInfo#0" />
+            <element signature="docComment;method#toString#0;class#ServerInfo#0" />
+            <element signature="method#toString#0;class#ServerInfo#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/shared/resources/User.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="425">
+          <caret line="65" lean-forward="true" selection-start-line="65" selection-end-line="65" />
+          <folding>
+            <element signature="docComment;class#User#0" />
+            <element signature="docComment;method#User#0;class#User#0" />
+            <element signature="method#User#0;class#User#0" />
+            <element signature="docComment;method#getFirstName#0;class#User#0" />
+            <element signature="docComment;method#getLastName#0;class#User#0" />
+            <element signature="docComment;method#geteMail#0;class#User#0" />
+            <element signature="docComment;method#getAccountNumber#0;class#User#0" />
+            <element signature="docComment;method#getPassword#0;class#User#0" />
+            <element signature="docComment;method#isTeacher#0;class#User#0" />
+            <element signature="docComment;method#setFirstName#0;class#User#0" />
+            <element signature="docComment;method#setLastName#0;class#User#0" />
+            <element signature="docComment;method#setEMail#0;class#User#0" />
+            <element signature="docComment;method#setAccountNumber#0;class#User#0" />
+            <element signature="docComment;method#setPassword#0;class#User#0" />
+            <element signature="docComment;method#setTeacher#0;class#User#0" />
+            <element signature="docComment;method#toString#0;class#User#0" />
+            <element signature="method#toString#0;class#User#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/client/launcher/Run.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="16" column="13" selection-start-line="16" selection-start-column="13" selection-end-line="16" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/client/view/MainView.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="646">
+          <caret line="85" column="62" selection-start-line="85" selection-start-column="62" selection-end-line="85" selection-end-column="62" />
+          <folding>
+            <element signature="docComment;class#MainView#0" />
+            <element signature="docComment;method#MainView#0;class#MainView#0" />
+            <element signature="docComment;method#start#0;class#MainView#0" />
+            <element signature="method#start#0;class#MainView#0" />
+            <element signature="docComment;method#getInstance#0;class#MainView#0" />
+            <element signature="method#getInstance#0;class#MainView#0" />
+            <element signature="docComment;method#openView#0;class#MainView#0" />
+            <element signature="docComment;method#registerView#0;class#MainView#0" />
+            <element signature="method#registerView#0;class#MainView#0" />
+            <element signature="method#loginView#0;class#MainView#0" />
+            <element signature="docComment;method#teacherMainView#0;class#MainView#0" />
+            <element signature="method#teacherMainView#0;class#MainView#0" />
+            <element signature="docComment;method#studentMainView#0;class#MainView#0" />
+            <element signature="method#studentMainView#0;class#MainView#0" />
+            <element signature="docComment;method#studentSessionView#0;class#MainView#0" />
+            <element signature="method#studentSessionView#0;class#MainView#0" />
+            <element signature="docComment;method#classroomView#0;class#MainView#0" />
+            <element signature="method#classroomView#0;class#MainView#0" />
+            <element signature="docComment;method#topicView#0;class#MainView#0" />
+            <element signature="method#topicView#0;class#MainView#0" />
+            <element signature="docComment;method#inSessionView#0;class#MainView#0" />
+            <element signature="method#inSessionView#0;class#MainView#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/client/launcher/RunAlt.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/server/ServerStarter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="15" column="13" selection-start-line="15" selection-start-column="13" selection-end-line="15" selection-end-column="13" />
+          <folding>
+            <element signature="docComment;class#ServerStarter#0" />
+            <element signature="method#main#0;class#ServerStarter#0" />
+            <element signature="e#379#611#0" />
+            <element signature="e#678#722#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/server/dataprovider/DatabaseConnection.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="918">
+          <caret line="156" column="4" selection-start-line="156" selection-start-column="4" selection-end-line="156" selection-end-column="4" />
+          <folding>
+            <element signature="docComment;class#DatabaseConnection#0" />
+            <element signature="docComment;method#DatabaseConnection#0;class#DatabaseConnection#0" />
+            <element signature="e#966#1012#0" />
+            <element signature="e#1062#1106#0" />
+            <element signature="e#1128#1208#0" />
+            <element signature="e#1248#1383#0" />
+            <element signature="docComment;method#getInstance#0;class#DatabaseConnection#0" />
+            <element signature="method#getInstance#0;class#DatabaseConnection#0" />
+            <element signature="e#1567#1627#1" />
+            <element signature="docComment;method#getCredentials#0;class#DatabaseConnection#0" />
+            <element signature="method#getCredentials#0;class#DatabaseConnection#0" />
+            <element signature="e#2054#2786#0" />
+            <element signature="e#2402#2712#1" />
+            <element signature="e#2826#2870#0" />
+            <element signature="docComment;method#registerUser#0;class#DatabaseConnection#0" />
+            <element signature="method#registerUser#0;class#DatabaseConnection#0" />
+            <element signature="e#3741#3935#0" />
+            <element signature="e#3870#3925#1" />
+            <element signature="docComment;method#makeSessionServerRegistration#0;class#DatabaseConnection#0" />
+            <element signature="method#makeSessionServerRegistration#0;class#DatabaseConnection#0" />
+            <element signature="docComment;method#getSessionServer#0;class#DatabaseConnection#0" />
+            <element signature="method#getSessionServer#0;class#DatabaseConnection#0" />
+            <element signature="e#5537#6509#0" />
+            <element signature="e#5893#6148#1" />
+            <element signature="e#6339#6407#1" />
+            <element signature="e#6549#6719#0" />
+            <element signature="e#6657#6709#1" />
+            <element signature="docComment;method#submitQuestion#0;class#DatabaseConnection#0" />
+            <element signature="method#submitQuestion#0;class#DatabaseConnection#0" />
+            <element signature="e#6928#7613#0" />
+            <element signature="e#7653#7823#0" />
+            <element signature="e#7761#7813#1" />
+            <element signature="docComment;method#retrieveQuestion#0;class#DatabaseConnection#0" />
+            <element signature="method#retrieveQuestion#0;class#DatabaseConnection#0" />
+            <element signature="e#8083#8816#0" />
+            <element signature="e#8367#8731#1" />
+            <element signature="e#8856#9026#0" />
+            <element signature="e#8964#9016#1" />
+            <element signature="docComment;method#createTopic#0;class#DatabaseConnection#0" />
+            <element signature="method#createTopic#0;class#DatabaseConnection#0" />
+            <element signature="e#9453#9683#0" />
+            <element signature="e#9723#9914#0" />
+            <element signature="e#9785#9829#1" />
+            <element signature="e#9859#9904#1" />
+            <element signature="docComment;method#fetchTopics#0;class#DatabaseConnection#0" />
+            <element signature="method#fetchTopics#0;class#DatabaseConnection#0" />
+            <element signature="e#10172#10596#0" />
+            <element signature="e#10442#10517#1" />
+            <element signature="e#10636#10806#0" />
+            <element signature="e#10744#10796#1" />
+            <element signature="docComment;method#updateTopic#0;class#DatabaseConnection#0" />
+            <element signature="method#updateTopic#0;class#DatabaseConnection#0" />
+            <element signature="e#11185#11424#0" />
+            <element signature="e#11464#11692#0" />
+            <element signature="e#11526#11570#1" />
+            <element signature="e#11600#11682#1" />
+            <element signature="docComment;method#deleteTopic#0;class#DatabaseConnection#0" />
+            <element signature="method#deleteTopic#0;class#DatabaseConnection#0" />
+            <element signature="e#11969#12208#0" />
+            <element signature="e#12248#12418#0" />
+            <element signature="e#12356#12408#1" />
+            <element signature="docComment;method#fetchWords#0;class#DatabaseConnection#0" />
+            <element signature="method#fetchWords#0;class#DatabaseConnection#0" />
+            <element signature="e#12846#13298#0" />
+            <element signature="e#13145#13219#1" />
+            <element signature="e#13338#13508#0" />
+            <element signature="e#13446#13498#1" />
+            <element signature="docComment;method#addWord#0;class#DatabaseConnection#0" />
+            <element signature="method#addWord#0;class#DatabaseConnection#0" />
+            <element signature="e#13815#14042#0" />
+            <element signature="e#14082#14252#0" />
+            <element signature="e#14190#14242#1" />
+            <element signature="docComment;method#editWord#0;class#DatabaseConnection#0" />
+            <element signature="method#editWord#0;class#DatabaseConnection#0" />
+            <element signature="e#14579#14814#0" />
+            <element signature="e#14854#15024#0" />
+            <element signature="e#14962#15014#1" />
+            <element signature="docComment;method#deleteWord#0;class#DatabaseConnection#0" />
+            <element signature="method#deleteWord#0;class#DatabaseConnection#0" />
+            <element signature="e#15295#15531#0" />
+            <element signature="e#15571#15741#0" />
+            <element signature="e#15679#15731#1" />
+            <element signature="docComment;method#createClassroom#0;class#DatabaseConnection#0" />
+            <element signature="method#createClassroom#0;class#DatabaseConnection#0" />
+            <element signature="e#16268#16519#0" />
+            <element signature="e#16559#16729#0" />
+            <element signature="e#16667#16719#1" />
+            <element signature="docComment;method#fetchClassrooms#0;class#DatabaseConnection#0" />
+            <element signature="method#fetchClassrooms#0;class#DatabaseConnection#0" />
+            <element signature="e#17048#17477#0" />
+            <element signature="e#17265#17393#1" />
+            <element signature="e#17517#17687#0" />
+            <element signature="e#17625#17677#1" />
+            <element signature="docComment;method#deleteClassroom#0;class#DatabaseConnection#0" />
+            <element signature="method#deleteClassroom#0;class#DatabaseConnection#0" />
+            <element signature="e#17996#18247#0" />
+            <element signature="e#18287#18457#0" />
+            <element signature="e#18395#18447#1" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.3862069" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>No facets are configured</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.3862069" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.3862069" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>11</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.3862069" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>java</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.3862069" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>11</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>jfoenix-9.0.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.3862069" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>

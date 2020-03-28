@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import com.jfoenix.controls.JFXButton?>
+<?import com.jfoenix.controls.JFXComboBox?>
+<?import com.jfoenix.controls.JFXTextField?>
+<?import javafx.scene.control.Label?>
+<?import javafx.scene.layout.AnchorPane?>
+<?import javafx.scene.text.Font?>
+
+<AnchorPane minHeight="-Infinity" minWidth="-Infinity" prefHeight="500.0" prefWidth="450.0" xmlns="http://javafx.com/javafx/10.0.1" xmlns:fx="http://javafx.com/fxml/1" fx:controller="client.view.teacherview.classroomview.ClassroomView">
+   <children>
+      <AnchorPane prefHeight="100.0" prefWidth="450.0">
+         <children>
+            <Label layoutX="40.0" layoutY="60.0" prefHeight="20.0" text="Account Number: ">
+               <font>
+                  <Font size="17.0" />
+               </font>
+            </Label>
+            <Label layoutX="150.0" layoutY="20.0" prefHeight="20.0" prefWidth="75.0" text="Welcome">
+               <font>
+                  <Font size="17.0" />
+               </font>
+            </Label>
+            <Label fx:id="userName" layoutX="225.0" layoutY="20.0" prefHeight="26.0" prefWidth="185.0">
+               <font>
+                  <Font size="17.0" />
+               </font>
+            </Label>
+            <Label fx:id="accountNumber" layoutX="182.0" layoutY="60.0" maxWidth="150.0" prefHeight="20.0" prefWidth="150.0">
+               <font>
+                  <Font size="17.0" />
+               </font>
+            </Label>
+         </children>
+      </AnchorPane>
+      <AnchorPane layoutY="100.0" prefHeight="400.0" prefWidth="450.0">
+         <children>
+            <Label layoutX="107.0" layoutY="377.0" text="Sprogcenter Midt 2019 Nucleus Software">
+               <font>
+                  <Font size="13.0" />
+               </font>
+            </Label>
+            <JFXComboBox fx:id="classroomComboBox" layoutX="85.0" layoutY="26.0" prefHeight="25.0" prefWidth="280.0" />
+            <AnchorPane layoutX="71.0" layoutY="143.0">
+               <children>
+                  <Label layoutY="12.0" text="Classroom ID:">
+                     <font>
+                        <Font size="17.0" />
+                     </font>
+                  </Label>
+                  <JFXTextField fx:id="classroomId" layoutX="123.0" prefHeight="25.0" prefWidth="185.0" />
+               </children>
+            </AnchorPane>
+            <AnchorPane layoutX="46.0" layoutY="181.0">
+               <children>
+                  <Label layoutY="12.0" text="Classroom Name:">
+                     <font>
+                        <Font size="17.0" />
+                     </font>
+                  </Label>
+                  <JFXTextField fx:id="classroomName" layoutX="152.0" prefHeight="25.0" prefWidth="185.0" />
+               </children>
+            </AnchorPane>
+            <AnchorPane layoutX="46.0" layoutY="235.0">
+               <children>
+                  <JFXButton onAction="#onCreateButton" prefHeight="50.0" prefWidth="150.0" style="-fx-background-color: #566270;" text="Create" textFill="WHITE">
+                     <font>
+                        <Font size="17.0" />
+                     </font>
+                  </JFXButton>
+                  <JFXButton layoutX="198.0" onAction="#onDeleteButton" prefHeight="50.0" prefWidth="150.0" style="-fx-background-color: #566270;" text="Delete" textFill="WHITE">
+                     <font>
+                        <Font size="17.0" />
+                     </font>
+                  </JFXButton>
+               </children>
+            </AnchorPane>
+            <JFXButton layoutX="145.0" layoutY="296.0" onAction="#onMainMenuButton" prefHeight="50.0" prefWidth="150.0" style="-fx-background-color: #566270;" text="Main Menu" textFill="WHITE">
+               <font>
+                  <Font size="17.0" />
+               </font>
+            </JFXButton>
+            <Label fx:id="selectedClassroom" alignment="CENTER" layoutX="17.0" layoutY="88.0" prefHeight="35.0" prefWidth="397.0" textAlignment="CENTER">
+               <font>
+                  <Font size="24.0" />
+               </font>
+            </Label>
+         </children>
+      </AnchorPane>
+   </children>
+</AnchorPane>
